@@ -1,6 +1,6 @@
-## Javaboza final project
-<br>
-# project name: 분산 환경 MSA 아키텍처의
+## Javaboza final 
+
+# Project name: 분산 환경 MSA 아키텍처의
 동영상 스트리밍 서버 웹 솔루션
 <br><br>
 
