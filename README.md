@@ -52,7 +52,4 @@
 #### 외부 API
 -결제 시스템 (포트원)<br>
 
-```jAVA
-ksdnglknsoeinlksnvkjnsleinlSRKng
-```
 
