@@ -1,4 +1,5 @@
-# Javaboza final 
+
+# JAVABOJA Final Project
 
 ### 프로젝트 주제 : 분산 환경 MSA 아키텍처의 동영상 스트리밍 서버 웹 솔루션 개발<br>
 
@@ -50,6 +51,5 @@
 -JPA와 Hibernate를 활용한 객체-관계 매핑 구현<br>
 #### 외부 API
 -결제 시스템 (포트원)<br>
-
 
 
