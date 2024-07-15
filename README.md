@@ -32,10 +32,6 @@
 
 ---
 
-### 개발 환경 
-https://github.com/Java-boza/fianlproject/issues/1#issue-2407699026
----
-
 ### 개발 구조
 
 #### 프론트엔드
